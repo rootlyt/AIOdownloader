@@ -1,0 +1,53 @@
+# Generated Android / Gradle state
+.gradle/
+.kotlin/
+**/build/
+.externalNativeBuild/
+.cxx/
+__pycache__/
+*.py[cod]
+local.properties
+
+# Android Studio user state
+.idea/
+*.iml
+*.iws
+*.ipr
+captures/
+
+# Packages, temporary files and logs
+*.apk
+*.aab
+*.apks
+*.log
+*.tmp
+*.temp
+*.hprof
+.DS_Store
+Thumbs.db
+
+# Private signing material and local secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+signing.gradle
+signing.gradle.kts
+secrets.properties
+credentials.properties
+.env
+.env.*
+!.env.example
+
+# Local agent skill cache
+.claude/
+
+# Private release signing directory
+.signing/
+
+# Local development journal; GitHub README.md remains trackable
+READMEjournal.md

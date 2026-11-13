@@ -1,0 +1,4 @@
+<resources>
+    <item name="page_download" type="id" />
+    <item name="page_downloads" type="id" />
+</resources>
